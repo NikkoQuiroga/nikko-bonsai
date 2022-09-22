@@ -76,6 +76,22 @@ padding-top: 15px;
 
 }
 
+.comentariosFacebookk {
+
+    display: flex;
+    border-left: #93979F 1px dotted;
+    
+}
+
+.fotoFacebookk   {
+
+    height: 70px;
+    width: 70px;
+    padding-top: 15px;
+    padding-left: 10px;
+
+    }
+
 .comentarioFacebook     {
 
     font-weight: 400;
@@ -93,6 +109,8 @@ padding-top: 15px;
     padding-left: 10px;
 
 }
+
+
 
 .nombreFacebook {
 
@@ -142,5 +160,7 @@ ul {
   }
   
 ul li:before {
-    content: '✓ ';
+    content: '✓';
+    color: #AABFBB;
+    font-weight:bolder;
   }
