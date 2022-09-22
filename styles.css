@@ -34,7 +34,8 @@ body {
 .garantiaTexto  {
 
     text-align: center;
-
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .fondoFacebook {
@@ -112,3 +113,12 @@ footer  {
     color: white;
     text-align: center;
 }
+
+
+.oroObtenido    {
+
+    width: 95%;
+    display: block;
+    margin: auto;
+}
+
